@@ -35,9 +35,9 @@ Dies ergibt eine CPU-Auslastung von 100% / 12s x 11s = 91.667%
    
 3. Wie gross ist die Wartezeit für jeden Prozess?
    
-P1: Startet bei Zeit 0 und war bereit bei Zeit 0. \( \text{Wartezeit} = 0 - 0 = 0 \) Zeiteinheiten.
-P2: Startet bei Zeit 25 und war bereit bei Zeit 25. \( \text{Wartezeit} = 25 - 25 = 0 \) Zeiteinheiten.
-P3: Startet bei Zeit 50 und war bereit bei Zeit 30. \( \text{Wartezeit} = 50 - 30 = 20 \) Zeiteinheiten.
-P4: Startet bei Zeit 75 und war bereit bei Zeit 60. \( \text{Wartezeit} = 75 - 60 = 15 \) Zeiteinheiten.
-P5: Startet bei Zeit 100 und war bereit bei Zeit 100. \( \text{Wartezeit} = 100 - 100 = 0 \) Zeiteinheiten.
-P6: Startet bei Zeit 110 und war bereit bei Zeit 105. \( \text{Wartezeit} = 110 - 105 = 5 \) Zeiteinheiten.
+P1: Startet bei Zeit 0 und war bereit bei Zeit 0.Wartezeit = 0 - 0 = 0 Zeiteinheiten.
+P2: Startet bei Zeit 25 und war bereit bei Zeit 25. Wartezeit = 25 - 25 = 0 Zeiteinheiten.
+P3: Startet bei Zeit 50 und war bereit bei Zeit 30. Wartezeit = 50 - 30 = 20 Zeiteinheiten.
+P4: Startet bei Zeit 75 und war bereit bei Zeit 60. Wartezeit = 75 - 60 = 15 Zeiteinheiten.
+P5: Startet bei Zeit 100 und war bereit bei Zeit 100. Wartezeit = 100 - 100 = 0 Zeiteinheiten.
+P6: Startet bei Zeit 110 und war bereit bei Zeit 105. Wartezeit = 110 - 105 = 5 Zeiteinheiten.
