@@ -28,4 +28,9 @@ Der Scheduler wird alle 10 Zeiteinheiten ausgeführt.
 ![Bild](Gantt2.png)
 
 2. Wie hoch ist die CPU-Auslastung?
+
+Für die gesamte Operation benötigt der CPU 12 Sekunden. Dabei ist dieser nur 1 Sekunde im idle, respektive ist die Belastung nur 11 Sekunden lang.
+
+Dies ergibt eine CPU-Auslastung von 100% / 12s x 11s = 91.667%
+   
 3. Wie gross ist die Wartezeit für jeden Prozess?
