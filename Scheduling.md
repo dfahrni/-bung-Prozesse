@@ -25,7 +25,7 @@ Der Scheduler wird alle 10 Zeiteinheiten ausgeführt.
 
 1. Zeichne ein Gantt Diagramm für die Prozessabfolge.
 
-![Bild](Gantt.png)
+![Bild](Gantt2.png)
 
 2. Wie hoch ist die CPU-Auslastung?
 3. Wie gross ist die Wartezeit für jeden Prozess?
